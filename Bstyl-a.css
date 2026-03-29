@@ -9,7 +9,7 @@ a:visited           {color: Purple}
 a:active            {color: Aqua}
 a:hover             {color: red; text-decoration: underline}
 .hlavni-cast        {background-color: #FFFFEE; width: 800px; margin-left: auto; margin-right: auto; position: relative; padding: 12px; border-style: double; border-color:#FFDDAA }
-.obsah-levy         {background-color: #B1FFAC; width: 200px; margin-left: 0px; margin-right: auto; position: relative; padding: 12px; border-style: double; border-color:#FFDDAA; position: sticky; top: 0px; }
+.obsah-levy         {background-color: #B1FFAC; width: 200px; margin-left: 0px; margin-right: auto; position: sticky; left: 0px; top: 0px; padding: 12px; border-style: double; border-color:#FFDDAA; position: sticky; top: 0px; }
 .obsah-horny
-.text               {background-color: #FFFFEE; width: 700px; margin-left: auto; margin-right: 0px; position: relative; padding: 12px; border-style: groove; border-color:#FFDDAA }
+.text               {background-color: #FFFFEE; width: 700px; margin-left: auto; margin-right: 0px; right: 0px; position: relative; padding: 12px; border-style: groove; border-color:#FFDDAA }
 .stred              {background-color: #FFFFEE; width: 900px; margin-left: auto; margin-right: auto; position: relative; padding: 12px; border-style: solid; border-color:#FFDDAA }
