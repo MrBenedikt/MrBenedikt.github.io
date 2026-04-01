@@ -2,7 +2,7 @@ body, p, a, div, br {color: black;    font-size: 12pt; font-family: Georgia;  fo
 h1                  {color: red;      font-size: 40pt; font-family: Veranda;  font-weight: bolder;}
 h3                  {color: olive;    font-size: 16pt; font-family: Georgia;  font-weight: bold;  text-decoration: underline; margin-left: -8px;}
 cite                {color: #111111;  font-size: 20pt; font-family: Garamond; font-weight: bold;  text-shadow: 1px 5px 3px #800; font-style: italic; width: 200px; padding: 16px; background-color:#FFF3DD; background-clip: content-box; display: block}
-br>.obsah-levy      {color: black;    font-size: 14pt; font-family: Georgia;  font-weight: bold;  list-style-image: URL('favicon.ico')}
+br     {color: black;    font-size: 14pt; font-family: Georgia;  font-weight: bold;  list-style-image: URL('favicon.ico')}
 a                   {text-decoration: none}
 a:link              {color: Teal}
 a:visited           {color: Purple}
